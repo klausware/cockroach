@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@snyk/protect@^1.1029.0":
+  version "1.1029.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1029.0.tgz#5abbf3b80d0d0bb4b7022c08226cb47c6fc3ed55"
+  integrity sha512-3ADdrttLWwczJZZy5xbS3HpmIqlNYMOThy8iUbkSJhHmi4VLeBm5hIE01IYkHiBki7NIlrEMR3wGv8J3OYsJvw==
+
 "@types/debug@^4.1.7":
   version "4.1.7"
   resolved "https://registry.yarnpkg.com/@types/debug/-/debug-4.1.7.tgz#7cc0ea761509124709b8b2d1090d8f6c17aadb82"
