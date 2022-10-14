@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "pg": "7.3.0",
-    "pg-error-codes": "1.0.0",
+    "pg-error-codes": "1.1.0",
     "sequelize": "^6.21.2",
     "sequelize-cockroachdb": "^6.0.0"
   },
