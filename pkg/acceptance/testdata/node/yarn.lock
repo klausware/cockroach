@@ -249,9 +249,10 @@ pg-connection-string@^2.5.0:
   resolved "https://registry.yarnpkg.com/pg-connection-string/-/pg-connection-string-2.5.0.tgz#538cadd0f7e603fc09a12590f3b8a452c2c0cf34"
   integrity sha512-r5o/V/ORTA6TmUnyWZR9nCj1klXCO2CEKNRlVuJptZe85QuhFayC7WeMic7ndayT5IRIR0S0xFxFi2ousartlQ==
 
-pg-error-codes@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/pg-error-codes/-/pg-error-codes-1.0.0.tgz#cfba6fa653a695bd8883fc69942e84a58decfccb"
+pg-error-codes@1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/pg-error-codes/-/pg-error-codes-1.1.0.tgz#6d331d8797954ad55b4c3b631eccc5ca9c8ed563"
+  integrity sha512-WUN3AlYo7927nyvMEtCXevLRE23E2N3yx8nTb5WWABneG59FEDCzOms+JGki/UvQ6iMsbOZTm32WVp/4ef19eQ==
 
 pg-int8@1.0.1:
   version "1.0.1"
